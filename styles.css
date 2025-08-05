@@ -1,1 +1,16 @@
-/* your code */
+thead{
+	background-color:#023047;
+	color:white;
+	border-top-left-radius:10px;
+}
+.c1{
+	background-color:lightpink;
+}
+.c2{
+	background-color:blanchedalmond;
+}
+table{
+	border:1px solid;
+	width:100%;
+	border-radius:10px;
+}
